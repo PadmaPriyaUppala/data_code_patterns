@@ -17,7 +17,7 @@ We pull data from Reddit/Twitter API, transform them using python and load them 
 5. [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ```bash
-git clone [https://github.com/padmapriyauppala/data_code_patterns.git](https://github.com/PadmaPriyaUppala/data_code_patterns.git)
+git clone
 cd data_code_patterns
 ```
 
